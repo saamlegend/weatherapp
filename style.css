@@ -1,0 +1,35 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+
+body{
+  
+  
+}
+
+.head{
+  color: #808080;
+  font-family: 'Rubik', sans-serif;
+}
+
+.color{
+  color: #000;
+}
+
+.form-control{
+  border-radius: 10px;
+  border: 2px #808080 solid;
+  color: #fff;
+}
+
+.btn{
+  background: #00008b;
+  color: #fff;
+  border-radius: 10px;
+}
+
+.card{
+  border: 2px #888888 solid;
+  border-radius: 3px;
+}
